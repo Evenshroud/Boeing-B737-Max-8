@@ -8,4 +8,4 @@ This is an overview report of Technical Writing and Presentation (ET2022) subjec
 >> <p>Reporters: "Do you believe that if U.S pilots had encountered the MCAS malfunction that Lion Air and Ethiopian 302 experienced, would they have been able to deal with it in your estimation?"</p>
 >> <p>David Calhoun: "And, um...I'm not gonna let you write this down. Do you agree that you're not going to write it down?"</p>
 >> <p>Reporters: "Uh...no."</p>
->> <p>David Calhoun: "All right, forget it. <b>You can guess the answer.</b>"</p>
+>> <p>David Calhoun: "All right, forget it. <b><i>You can guess the answer.</i></b>"</p>
